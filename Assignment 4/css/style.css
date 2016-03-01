@@ -1,0 +1,2 @@
+<!-- map stylings to make it 600 pixels wide and tall -->
+		#map { width: 600px; height: 600px; margin: 0 auto; padding: 0; }
